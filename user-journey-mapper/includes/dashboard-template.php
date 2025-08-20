@@ -13,7 +13,7 @@
     </div>
 
     <h2 style="margin-top: 40px;">User Journey Timeline</h2>
-    <canvas id="ujmJourneyChart" width="100%" height="300"></canvas>
+    <canvas id="ujmJourneyChart" width="100%" height="50"></canvas>
 
     <h2 style="margin-top: 40px;">Top Exit Pages</h2>
     <table class="widefat fixed striped">
@@ -30,3 +30,4 @@
         </tbody>
     </table>
 </div>
+
